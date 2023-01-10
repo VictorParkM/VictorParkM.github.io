@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "kr"
+locale                   : "korean"
 title                    : "It might be helpful"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Victor P"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "It might be helpful for you."
+  location         : "HannamD"
   email            :
   links:
     - label: "Email"
